@@ -38,6 +38,7 @@ a:link {
       color: dimgray;
      
       line-height: 1.8;
+      margin-bottom: 30px;
   }
   .upper{
     background-image: url("image/top-banner.png");
